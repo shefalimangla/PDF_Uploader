@@ -1,5 +1,5 @@
 # Application
-# PDF File Uploader
+# Multilingual PDF Uploader and Translator
 - Once you run the application, you'll be presented with a user interface where you can upload PDF files.
 
 # Upload a PDF File
